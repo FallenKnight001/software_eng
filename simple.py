@@ -10,5 +10,12 @@ print ('Hello, world!')
 # Sumits Code
 print ('Hello, github! (from ----- sumit2416)')
 
+favorite_color = input("What's your favorite color?\n")
+print(f"Wow, {favorite_color} is a nice color!")
+
+#new lines below
+
+
+
 #snket code
 print("i m sanket")
